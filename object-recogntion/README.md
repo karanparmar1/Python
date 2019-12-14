@@ -1,9 +1,10 @@
 Object Recognition Program
 
 requirements :
-Python 3, Pip, 
-Python Libraries : cv2 , pyautogui , numpy, imutils 
-& System With WebCam
+ Python 3, 
+ Pip, 
+ Python Libraries : cv2 , pyautogui , numpy, imutils 
+ & System With WebCam
 
 Green Ball Recgnition with Python 3 Using OpenCV library , 
 Program is able to Recognize Green Circular object in normal lighting condition using system's webcam.
